@@ -14,7 +14,7 @@
 1. Clone the repository or download the script:
 
    ```bash
-   git clone https://github.com/yourusername/Sanitizer.git
+   git clone https://github.com/krishnagopaljha/sanitizer.git
    cd Sanitizer
 
 ## Usage
