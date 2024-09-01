@@ -22,6 +22,7 @@ To securely delete a file, use the following command:
 
    ```bash
    python3 script.py <file_to_delete> [--passes N]
+```
 
-- ' <file_to_delete> ' : The path to the file you want to securely delete.
-- ' --passes N' : (Optional) The number of overwrite passes (default is 3).
+- **<file_to_delete>: The path to the file you want to securely delete.
+- **--passes N: (Optional) The number of overwrite passes (default is 3).
